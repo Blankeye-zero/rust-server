@@ -1,0 +1,25 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');*/
+h1{
+/*font-family: 'Zen Dots', cursive;*/
+font-weight: 700;
+font-style: normal;
+font-size: 38px;
+color:#00FF00;
+-webkit-font-smoothing: antialiased;
+	text-align:center;
+}
+
+body{background-color:black;
+color:#00FF00;
+}
+article{
+margin: 20px;
+}
+
+table{
+text-align:center;
+}
+
+ul{
+text-align: center;
+}
